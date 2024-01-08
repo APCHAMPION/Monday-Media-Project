@@ -1278,9 +1278,3 @@ image6.addEventListener("click", () => {
 }
 onload = media();
 onresize = media();
-
-
-
-
-// let image2 = document.getElementByI"POOB_image2");
-// image2.style.width = "calc(100vw/3)
